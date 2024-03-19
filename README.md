@@ -1,6 +1,7 @@
 #Welcome to Coffee-Junkie Project
 
-##Technologies Used - HTML
+##Technologies Used 
+- HTML
 
 ##HTML Concepts
 1.heading tags
